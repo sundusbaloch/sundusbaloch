@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @sundusbaloch
-- 👀 I’m interested in machine learning projects
-- 🌱 I’m currently learning biomedical engineering
-- 💞️ I’m looking to collaborate on email
-- 📫 How to reach me: balochsundus18@gmail.com
+# Hi, I'm Sundus Baloch 👋
 
-<!---
-sundusbaloch/sundusbaloch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD Fellow, AI educator, and founder, based in Islamabad, Pakistan.
+
+## What I do
+- 🔬 **PhD Fellow (AI), NUST**
+- 🚀 **Founder & CEO of ThinkBase**, an online tutoring platform for IGCSE, A-Level and IB students
+- 🤖 **AI Trainer** with STEAM Nexus Education
+- 🎓 MS in Artificial Intelligence 
+
+## Technical focus
+Python · Machine Learning · Computer Vision · Advanced Algorithms ·Deep Learning
+
+## Currently
+- Working on my PhD research proposal
+- Building ThinkBase's learning programs
+- Teaching since 2021
+
+## Find me
+- 📧 balochsundus18@gmail.com
+- 💼 https://www.linkedin.com/in/sundus-baloch26/
